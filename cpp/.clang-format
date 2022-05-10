@@ -11,12 +11,12 @@ ContinuationIndentWidth: 4
 AccessModifierOffset: -1
 
 AlignAfterOpenBracket: DontAlign
-AlignConsecutiveAssignments: None
-AlignConsecutiveDeclarations: None
-AlignConsecutiveMacros: None
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignConsecutiveMacros: true
 AlignEscapedNewlines: DontAlign
 AlignOperands: DontAlign
-AlignTrailingComments: false
+AlignTrailingComments: true
 
 AllowAllArgumentsOnNextLine: true
 AllowAllConstructorInitializersOnNextLine: true
